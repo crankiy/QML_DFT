@@ -1,5 +1,5 @@
 # QML_DFT
-### *Atomic locality embedded quantum machine learning for materials simulation*
+#*Atomic locality embedded quantum machine learning for materials simulation*
 
 ---
 
